@@ -1,4 +1,4 @@
-# user_name = input ('Enter your name: ')
+
 import math 
 a = float(input ('Enter the value of the first side of the traingle: '))
 b = float(input ('Enter the value of the second side of the traingle: '))
